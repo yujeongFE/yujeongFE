@@ -3,7 +3,7 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-![kkaerrung's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkaerrung&show_icons=true&theme=radical)
+![yujeongFE's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeongFE&show_icons=true&theme=radical)
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
