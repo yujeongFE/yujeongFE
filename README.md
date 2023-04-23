@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=f5f5dc&animation=fadeIn&height=300&text=Welcome!)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=f5f5dc&animation=fadeIn&height=300&text=yujeong's GitHub)
 
+<h3 align="center">👋Welcome to my GitHub!👋</h3>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
