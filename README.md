@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&fontColor=f5f5dc&animation=fadeIn&height=300&text= yujeong's GitHub)
+![header](https://capsule-render.vercel.app/api?type=waving&fontColor=f5f5dc&animation=fadeIn&height=300&text= "yujeong's GitHub")
 
 <h3 align="center">👋Welcome to my GitHub!👋</h3>
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
@@ -22,3 +22,5 @@
   <a href="https://www.instagram.com/owo_yjj/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/owo_yjj/"/></a>&nbsp
   <a href="mailto:yujeong5236@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=yujeong5237@sookmyung.ac.kr"/></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
