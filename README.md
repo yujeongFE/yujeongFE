@@ -51,11 +51,6 @@
 </div>
 
 
-<div align="center">
-  <a href="https://github.com/yujeongFE/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujeongFE" alt="Top Languages" />
-  </a>
-</div>
 
 
 
