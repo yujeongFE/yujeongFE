@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&fontColor=f5f5dc&animation=fadeIn&height=300&text=Yujeong&nbsp;Jeon" alt="Header"/>
 </div>
 
-<p align="center">
+<h3 align="center">
   💛 ABOUT ME
-</p>
+</h3>
 <p align="center">
   안녕하세요, 가치 있는 일이라면 주저하지 않는 FE 개발자 전유정입니다 👋
 </p>
@@ -12,8 +12,9 @@
   항상 유저의 관점에서 생각하며, 더 나은 경험을 제공하는 서비스를 제공하기 위해 노력하겠습니다. 
 </p>
 
-<p align="center">
+<h3 align="center">
   💛 가치관
+</h3>
 <p align="center">
   좋은 서비스는 '함께' 하는 과정에서 탄생한다고 생각합니다.
 </p>
