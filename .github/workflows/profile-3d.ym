@@ -10,17 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
-  run: |
-    git config user.name yujeongFE
-    git config user.email yujeong6231@naver.com
-    git pull origin main --rebase  # 최신 변경 사항 재배치
-    git add -A .
-    git commit -m "generated" || echo "No changes to commit"  # 변경 사항 없을 경우 에러 방지
-    git push origin main
-          
+        run: |
+          git config user.name yujeongFE
+          git config user.email yujeong6231@naver.com
+          git add -A .
+          git commit -m "generated"
+          git push
