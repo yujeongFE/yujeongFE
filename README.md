@@ -3,32 +3,27 @@
 
 ## 😀 About Me
 <p>안녕하세요, 가치 있는 일이라면 주저하지 않는 <strong>FE 개발자 전유정</strong>입니다.</p>
-<p>항상 <strong>유저의 관점</strong>에서 생각하며, 더 나은 경험을 제공하는 서비스를 제공하기 위해 노력하겠습니다.</p>
 
-<p>나를 표현하는 단어: </p>
-
-## 👩🏻‍💻 How do I code?
-<p> <strong>어?</strong>와 <strong>어?~</strong>가 반복되는 코딩</p> 
+<p>저를 표현하는 단어는 <strong>"Re:유정"</strong> 입니다</p>
+<p> <strong>어?</strong>와 <strong>어?~</strong>를 반복하며 코드를 개선하는 습관을 가졌습니다.</p> 
 <p>"일단 도전해보자 - <strong>어?</strong> 잘 안되네 - 다른 방법을 찾아보자 - <strong>어?~</strong> 이번엔 더 나아졌어 - 다시 한번 해보자"</p>
+<p>처음에는 버그가 있을 수 있지만, 문제를 계속 시도하면서 최적의 결과를 얻고자 합니다.</p>
 
 <img src="https://github.com/user-attachments/assets/37dcc951-cae0-475b-a732-5d9717de3714" width="500" height="400" alt="example image">
 
 
 ## 👄 How do I cooperate
-
-<p>저는 코드 한 줄 한 줄에 동료를 생각하며, <strong>비즈니스 임팩트를 극대화</strong>하는 소통을 위해 최선을 다합니다.</p>
 <p>목표를 향해 나아가는 사람들이 함께 시너지를 발휘할 수 있는 <strong>건강한 조직 문화</strong>를 위해, 그 안에서 의미 있게 기여하고 싶습니다.</p>
 
 ## 🗣️ Recommendation
-<p> "말이 좀 많지만, 전문분야가 아닌 이슈에 대해서도 항상 관심을 갖고 적극적으로 참여해 주신 덕에 더 좋은 해결책을 찾는 경우가 많아요. 앞으로도 쭉 함께하고 싶은 분이에요." </p>
+<p> "전문분야가 아닌 이슈에 대해서도 항상 관심을 갖고 적극적으로 참여해 주신 덕에 더 좋은 해결책을 찾는 경우가 많아요. 앞으로도 쭉 함께하고 싶은 분이에요." </p>
 <p><strong>- 씨비파이낸셜솔루션 재직시 동료 -</strong></p>
 
 ## 🤩 Interests
 <div>
     <h4>Tech</h4>
     <ul>
-        <li>Web3와 BlockChain에 관심있습니다.</li>
-        <li>Cloud computing과 이를 활용한 Serverless computing에 관심있습니다.</li>
+        <li>핀테크 기술에 큰 관심이 있습니다.</li>
     </ul>
 </div>
 <div>
@@ -40,12 +35,14 @@
 </div>
 
 ## 💻 Experience
-<ul>
-    <li>프로디지털아카데미 - Cloud & Web Full Stack (2024.03 ~ )</li>
-    <li>KB 학습멘토링 24기- FE-Developr (2020.01 ~ 2023.08)</li>
-    <li>핀테크 인턴십 코스 4기 - 개발자 (2022.03 ~ 2023.01)</li>
-    <li>숙명여자대학교 - 경영학부 / IT공학과 (2020.03 ~ now)</li>
+<ul> 
+    <li>[신한투자증권] 프로디지털아카데미 교육생 (2024.09 ~ 현재)</li> 
+    <li>[씨비파이낸셜솔루션] 프론트엔드 개발 인턴 (2022.03 ~ 2023.01)</li> 
+    <li>[한국핀테크지원센터] 2023 핀테크 인턴십 코스 4기 교육생 (2022.03 ~ 2023.01)</li> 
+    <li>[IT 연합동아리 코테이토] 부회장, 부원 (2021.07 ~ 2023.07)</li> 
+    <li>[숙명여자대학교] 경영학부 / IT공학과 (2020.03 ~ 현재)</li> 
 </ul>
+
 
 ## 🏆 Awards 
 <table>
@@ -111,13 +108,14 @@
 <p>🤵 담당 역할: 기획 및 프론트엔드 개발자</p>
 <p>🚀 좋아하는 이유:</p>
 <ul>
-    <li>처음으로 <strong>핀테크 서비스 기획</strong>에 참여하여 8주간 기여하였음</li>
-    <li><strong>전자금융거래법</strong> 등 금융업의 법률적 제약을 고려하여 실현 가능한 프로젝트를 기획함</li>
-    <li><strong>금융권 현직자 멘토</strong>의 조언을 받고 프론트엔드 개발까지 성공적으로 수행함</li>
-    <li>AI를 활용하여 10,000가지가 넘는 <strong>NFT</strong> 이미지를 발행하고, 스마트 <strong>Solidity</strong> 언어를 사용해 민팅함</li>
-    <li><strong>오픈 API의 불안정성과 성능</strong> 문제를 해결하기 위해 <strong>캐싱</strong>을 적용함</li>
-    <li><strong>핀테크 해커톤에서 우수상</strong>을 달성했던 프로젝트</li>
+    <li>처음으로 <strong>핀테크 서비스 기획</strong>에 참여하여 8주간 기여하였습니다.</li>
+    <li><strong>전자금융거래법</strong> 등 금융업의 법률적 제약을 고려하여 실현 가능한 프로젝트를 기획하였습니다.</li>
+    <li><strong>금융권 현직자 멘토</strong>의 조언을 받아 프론트엔드 개발까지 성공적으로 수행하였습니다.</li>
+    <li>AI를 활용하여 10,000가지 이상의 <strong>NFT</strong> 이미지를 발행하고, 스마트 <strong>Solidity</strong> 언어를 사용하여 민팅을 경험하였습니다.</li>
+    <li><strong>오픈 API의 불안정성과 성능</strong> 문제를 해결하기 위해 <strong>캐싱</strong>을 적용하였습니다.</li>
+    <li><strong>핀테크 해커톤에서 우수상</strong>을 수상한 프로젝트입니다.</li>
 </ul>
+
 
 
 ## 📚 GitHub Stats
