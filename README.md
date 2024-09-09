@@ -2,35 +2,35 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,0,255,255&height=380&section=header&text=안녕하세요,%20전유정%20입니다%20%20😊&fontSize=40&fontColor=ffffff&animation=twinkling&reversal=true" alt="Header" />
 
 ## 😀 About Me
-<p>안녕하세요, 가치 있는 일이라면 주저하지 않는 <strong>FE 개발자 전유정</strong>입니다.</p>
+<p>안녕하세요, <strong>FE 개발자를 희망하는 전유정</strong>입니다.</p>
 
 <p>저를 표현하는 단어는 <strong>"Re:유정"</strong> 입니다</p>
-<p> <strong>어?</strong>와 <strong>어?~</strong>를 반복하며 코드를 개선하는 습관을 가졌습니다.</p> 
-<p>"일단 도전해보자 - <strong>어?</strong> 잘 안되네 - 다른 방법을 찾아보자 - <strong>어?~</strong> 이번엔 더 나아졌어 - 다시 한번 해보자"</p>
-<p>처음에는 버그가 있을 수 있지만, 문제를 계속 시도하면서 최적의 결과를 얻고자 합니다.</p>
+<p> <strong>어?</strong>와 <strong>어?~</strong>를 반복하며 코드를 작성하는 습관가졌습니다.</p> 
+<p></p><strong>어?</strong> 잘 안되네 - 다른 방법을 찾아보자 - <strong>어?~</strong> 해결됐다 - 다시 살펴 보자"</p>
+<p>처음에는 버그가 있을 수 있지만, 계속 다시 도전하면서 최적의 결과를 얻고자 합니다.</p>
 
 <img src="https://github.com/user-attachments/assets/37dcc951-cae0-475b-a732-5d9717de3714" width="500" height="400" alt="example image">
 
 
 ## 👄 How do I cooperate
-<p>목표를 향해 나아가는 사람들이 함께 시너지를 발휘할 수 있는 <strong>건강한 조직 문화</strong>를 위해, 그 안에서 의미 있게 기여하고 싶습니다.</p>
+<p>목표를 향해 나아가는 사람들이 함께 시너지를 발휘할 수 있는 <strong>건강한 조직 문화</strong>를 위해, 긍정적인 마인드로 임하려고 노력합니다.</p>
 
 ## 🗣️ Recommendation
 <p> "전문분야가 아닌 이슈에 대해서도 항상 관심을 갖고 적극적으로 참여해 주신 덕에 더 좋은 해결책을 찾는 경우가 많아요. 앞으로도 쭉 함께하고 싶은 분이에요." </p>
-<p><strong>- 씨비파이낸셜솔루션 재직시 동료 -</strong></p>
+<p>- 씨비파이낸셜솔루션 재직시 동료 -</p>
 
 ## 🤩 Interests
 <div>
     <h4>Tech</h4>
     <ul>
-        <li>핀테크 기술에 큰 관심이 있습니다.</li>
+        <li>기술로 편의를 주는 핀테크 서비스에 큰 관심이 있습니다.</li>
     </ul>
 </div>
 <div>
     <h4>Hobby</h4>
     <ul>
         <li>여행🌴 - 국내외 여행다니는것을 좋아합니다.</li>
-        <li>카페☕️ - 예쁜카페에 가서 코딩하는걸 즐깁니다. 함께 모각코해요!</li>
+        <li>카페☕️ - 카페에 가서 다같이 코딩하는걸 즐깁니다. 함께 모각코해요!</li>
     </ul>
 </div>
 
@@ -86,13 +86,15 @@
     </a>
 </div>  
 <div>
-    <h4>Framework & Library</h4>
+    <h4>Framework & Library & skils</h4>
     <a href="https://skillicons.dev">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" alt="React"/>
         <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=react&logoColor=white" alt="React Native"/>
         <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" alt="jQuery"/>
-        <img src="https://img.shields.io/badge/i18next-26A69A?style=flat&logo=i18next&logoColor=white" alt="i18next"/>
-        <img src="https://img.shields.io/badge/Web3.js-F16822?style=flat&logo=web3dotjs&logoColor=white" alt="Web3.js"/>
+        <img src="https://img.shields.io/badge/redux-26A69A?style=flat&logo=redux&logoColor=white" alt="redux"/>
+        <img src="https://img.shields.io/badge/recoil-F16822?style=flat&logo=recoiljs&logoColor=white" alt="recoil"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" alt="Pandas"/>
+        <img src="https://img.shields.io/badge/NLP-008080?style=flat&logo=nlp&logoColor=white" alt="NLP"/>
     </a>
 </div>
 <div>
