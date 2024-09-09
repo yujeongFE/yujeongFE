@@ -114,7 +114,6 @@
     <li><strong>전자금융거래법</strong> 등 금융업의 법률적 제약을 고려하여 실현 가능한 프로젝트를 기획하였습니다.</li>
     <li><strong>금융권 현직자 멘토</strong>의 조언을 받아 프론트엔드 개발까지 성공적으로 수행하였습니다.</li>
     <li>AI를 활용하여 10,000가지 이상의 <strong>NFT</strong> 이미지를 발행하고, <strong>Solidity</strong> 언어를 사용하여 NFT 마켓 플레이스에 업로드한 경험이 있습니다.</li>
-    <li><strong>오픈 API의 불안정성과 성능</strong> 문제를 해결하기 위해 <strong>캐싱</strong>을 적용하였습니다.</li>
     <li><strong>핀테크 해커톤에서 우수상</strong>을 수상한 프로젝트입니다.</li>
 </ul>
 
