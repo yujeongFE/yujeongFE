@@ -100,7 +100,7 @@
 <div>
     <h4>Etc</h4>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=figma,photoshop,aws,gcp" alt="Etc Icons"/>
+        <img src="https://skillicons.dev/icons?i=figma,firebase,aws,mysql" alt="Etc Icons"/>
     </a>
 </div>
 
