@@ -26,6 +26,13 @@
     <li>[숙명여자대학교] 경영학부 / IT공학과 (2020.03 ~ 현재)</li> 
 </ul>
 
+## 💻 Certification
+<ul> 
+    <li>정보처리기사</li> 
+    <li>SQLD</li> 
+    <li>ADSP</li> 
+
+</ul>
 
 ## 🏆 Awards 
 <table>
