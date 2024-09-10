@@ -4,7 +4,7 @@
 ## 😀 About Me
 <p>안녕하세요, <strong>FE 개발자를 희망하는 전유정</strong>입니다.</p>
 
-## 👄 How do I cooperate
+## 🗣️ How do I cooperate
 <p>목표를 향해 나아가는 사람들이 함께 시너지를 발휘할 수 있는 <strong>건강한 조직 문화</strong>를 위해, 긍정적인 마인드로 임하려고 노력합니다.</p>
 
 ## 🤩 Interests
@@ -16,6 +16,18 @@
         <li>카페☕️ - 카페에 가서 다같이 코딩하는걸 즐깁니다. 함께 모각코해요!</li>
     </ul>
 </div>
+## 가장 좋아하는 프로젝트 경험
+<h3>캠잇 프로젝트 (NFT 기반 대학가 멤버십 서비스) </h3>
+<p>📆 기간: 2023.08 ~ 2023.10 (2개월)</p>
+<p>🤵 담당 역할: 기획 및 프론트엔드 개발자</p>
+<p>🚀 좋아하는 이유:</p>
+<ul>
+    <li>처음으로 <strong>핀테크 서비스 기획</strong>에 참여하여 8주간 기여하였습니다.</li>
+    <li><strong>전자금융거래법</strong> 등 금융업의 법률적 제약을 고려하여 실현 가능한 프로젝트를 기획하였습니다.</li>
+    <li><strong>금융권 현직자 멘토</strong>의 조언을 받아 프론트엔드 개발까지 성공적으로 수행하였습니다.</li>
+    <li>AI를 활용하여 10,000가지 이상의 <strong>NFT</strong> 이미지를 발행하고, <strong>Solidity</strong> 언어를 사용하여 NFT 마켓 플레이스에 업로드한 경험이 있습니다.</li>
+    <li><strong>핀테크 해커톤에서 우수상</strong>을 수상한 프로젝트입니다.</li>
+</ul>
 
 ## 💻 Experience
 <ul> 
@@ -93,21 +105,6 @@
         <img src="https://skillicons.dev/icons?i=figma,firebase,aws,mysql" alt="Etc Icons"/>
     </a>
 </div>
-
-## 가장 좋아하는 프로젝트 경험
-<h3>캠잇 프로젝트 (NFT 기반 대학가 멤버십 서비스) </h3>
-<p>📆 기간: 2023.08 ~ 2023.10 (2개월)</p>
-<p>🤵 담당 역할: 기획 및 프론트엔드 개발자</p>
-<p>🚀 좋아하는 이유:</p>
-<ul>
-    <li>처음으로 <strong>핀테크 서비스 기획</strong>에 참여하여 8주간 기여하였습니다.</li>
-    <li><strong>전자금융거래법</strong> 등 금융업의 법률적 제약을 고려하여 실현 가능한 프로젝트를 기획하였습니다.</li>
-    <li><strong>금융권 현직자 멘토</strong>의 조언을 받아 프론트엔드 개발까지 성공적으로 수행하였습니다.</li>
-    <li>AI를 활용하여 10,000가지 이상의 <strong>NFT</strong> 이미지를 발행하고, <strong>Solidity</strong> 언어를 사용하여 NFT 마켓 플레이스에 업로드한 경험이 있습니다.</li>
-    <li><strong>핀테크 해커톤에서 우수상</strong>을 수상한 프로젝트입니다.</li>
-</ul>
-
-
 
 ## 📚 GitHub Stats
 <!-- GitHub Stats -->
