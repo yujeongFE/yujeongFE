@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&customColorList=0,0,255,255&height=380&section=header&text=안녕하세요,%20전유정%20입니다%20%20😊&fontSize=40&fontColor=ffffff&animation=twinkling&reversal=true" alt="Header" />
 
 ## 😀 About Me
-<p>안녕하세요, <strong>FE 개발자를 희망하는 전유정</strong>입니다.</p>
+<p>안녕하세요, 가치 있는 일이라면 노력을 아끼지 않는 FE 개발자, 전유정입니다.</p>
 
 ## 🗣️ How do I cooperate
 <p>목표를 향해 나아가는 사람들이 함께 시너지를 발휘할 수 있는 <strong>건강한 조직 문화</strong>를 위해, 긍정적인 마인드로 임하려고 노력합니다.</p>
