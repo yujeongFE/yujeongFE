@@ -85,16 +85,3 @@
 
 <!-- Contribution Graph -->
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribution Graph" />
-
-## 🔅 Follow Me 
-<div>
-    <a href="https://velog.io/@kkaerrung">
-        <img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white" alt="Velog"/>
-    </a>
-    <a href="https://www.instagram.com/owo_yjj/">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
-    </a>
-    <a href="mailto:yujeong5236@sookmyung.ac.kr">
-        <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail"/>
-    </a>
-</div>
